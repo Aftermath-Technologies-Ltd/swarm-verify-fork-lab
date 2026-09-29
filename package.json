@@ -1,0 +1,9 @@
+{
+  "name": "swarm-verify-fork-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A controlled repository for exercising swarm-verify's fork and Dependabot routes.",
+  "scripts": { "test": "node --test" },
+  "devDependencies": { "ms": "2.0.0" }
+}
