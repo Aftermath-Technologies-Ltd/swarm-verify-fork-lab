@@ -1,4 +1,4 @@
 export function sum(a, b) {
-  // commutative
+  // addition commutes
   return b + a;
 }
